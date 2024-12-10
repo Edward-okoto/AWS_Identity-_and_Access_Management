@@ -1,4 +1,4 @@
-# AWS Identity & Access Management
+# AWS Identity & Access Management (IAM)
 ## Project Goals
    * Understand AWS identity and Access management (IAM) principles and components.
 
